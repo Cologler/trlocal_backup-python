@@ -1,5 +1,7 @@
 # trlocal_backup
 
+**Use restic or others backup apps.**
+
 a local backup tool for transmission without call remote rpc.
 
 ## Usage
